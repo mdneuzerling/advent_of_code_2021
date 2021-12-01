@@ -11,13 +11,6 @@ using ShiftedArrays
     length # now count
 end
 
-
-
-
-
-
-
-
 # PART 2
 @chain "01/data" begin
     readlines # read into an array, each line is an element
